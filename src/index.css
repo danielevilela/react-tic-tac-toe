@@ -53,3 +53,11 @@ ol, ul {
 .game-board{
   margin: auto;
 }
+
+.classX{
+  color: #5dd4ef;
+}
+
+.classY{
+  color: #e62d2d;
+}
